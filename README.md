@@ -1,0 +1,2 @@
+# K-Means Project - 2022
+This project implements a K-means clustering algorithm from scratch to group emojis based on their vector representations. It reads emoji embedding data, initializes 15 random centroids, and iteratively assigns emojis to the nearest centroid while recalculating their averages until convergence. The algorithm then outputs clusters of similar emojis using a lookup table to display actual emoji symbols. Overall, it demonstrates manual implementation of unsupervised learning without using external machine learning libraries.
